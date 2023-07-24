@@ -1,0 +1,182 @@
+2023-07-14T01:34:22+00:00 DEBUG 
+====Stripe Version: 7.4.1====
+====Start Log====
+account
+====End Log====
+
+
+2023-07-14T04:10:33+00:00 DEBUG 
+====Stripe Version: 7.4.1====
+====Start Log====
+account
+====End Log====
+
+
+2023-07-14T06:12:10+00:00 DEBUG 
+====Stripe Version: 7.4.1====
+====Start Log====
+account
+====End Log====
+
+
+2023-07-14T06:53:18+00:00 DEBUG 
+====Stripe Version: 7.4.1====
+====Start Log====
+payment_methods request: Array
+(
+    [customer] => cus_NsCZhtZCJZuRpj
+    [type] => card
+    [limit] => 100
+)
+
+====End Log====
+
+
+2023-07-14T06:53:19+00:00 DEBUG 
+====Stripe Version: 7.4.1====
+====Start Log====
+payment_methods request: Array
+(
+    [customer] => cus_NsCZhtZCJZuRpj
+    [type] => link
+    [limit] => 100
+)
+
+====End Log====
+
+
+2023-07-14T06:55:42+00:00 DEBUG 
+====Stripe Version: 7.4.1====
+====Start Log====
+payment_intents request: Array
+(
+    [amount] => 1500
+    [currency] => cad
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [capture_method] => manual
+)
+
+====End Log====
+
+
+2023-07-14T06:59:31+00:00 DEBUG 
+====Stripe Version: 7.4.1====
+====Start Log====
+payment_intents request: Array
+(
+    [amount] => 1500
+    [currency] => cad
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [capture_method] => manual
+)
+
+====End Log====
+
+
+2023-07-14T07:20:40+00:00 DEBUG 
+====Stripe Version: 7.4.1====
+====Start Log====
+payment_intents request: Array
+(
+    [amount] => 1500
+    [currency] => cad
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [capture_method] => manual
+)
+
+====End Log====
+
+
+2023-07-14T08:12:15+00:00 DEBUG 
+====Stripe Version: 7.4.1====
+====Start Log====
+account
+====End Log====
+
+
+2023-07-14T10:14:10+00:00 DEBUG 
+====Stripe Version: 7.4.1====
+====Start Log====
+account
+====End Log====
+
+
+2023-07-14T10:14:10+00:00 DEBUG 
+====Stripe Version: 7.4.1====
+====Start Log====
+account
+====End Log====
+
+
+2023-07-14T11:19:45+00:00 DEBUG 
+====Stripe Version: 7.4.1====
+====Start Log====
+payment_intents request: Array
+(
+    [amount] => 1500
+    [currency] => cad
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [capture_method] => manual
+)
+
+====End Log====
+
+
+2023-07-14T12:14:28+00:00 DEBUG 
+====Stripe Version: 7.4.1====
+====Start Log====
+account
+====End Log====
+
+
+2023-07-14T14:14:41+00:00 DEBUG 
+====Stripe Version: 7.4.1====
+====Start Log====
+account
+====End Log====
+
+
+2023-07-14T16:15:41+00:00 DEBUG 
+====Stripe Version: 7.4.1====
+====Start Log====
+account
+====End Log====
+
+
+2023-07-14T18:16:41+00:00 DEBUG 
+====Stripe Version: 7.4.1====
+====Start Log====
+account
+====End Log====
+
+
+2023-07-14T20:17:42+00:00 DEBUG 
+====Stripe Version: 7.4.1====
+====Start Log====
+account
+====End Log====
+
+
+2023-07-14T22:18:41+00:00 DEBUG 
+====Stripe Version: 7.4.1====
+====Start Log====
+account
+====End Log====
+
+

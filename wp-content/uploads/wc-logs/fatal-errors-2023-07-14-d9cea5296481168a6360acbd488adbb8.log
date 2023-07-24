@@ -1,0 +1,28 @@
+2023-07-14T06:18:38+00:00 CRITICAL syntax error, unexpected end of file in /home1/bonjouw7/public_html/wp-content/themes/ms-lms-starter-theme/templates/shedule.php on line 133
+
+2023-07-14T06:19:38+00:00 CRITICAL syntax error, unexpected '$variant' (T_VARIABLE), expecting ';' or ',' in /home1/bonjouw7/public_html/wp-content/themes/ms-lms-starter-theme/templates/shedule.php on line 69
+
+2023-07-14T06:31:33+00:00 CRITICAL syntax error, unexpected 'parrent' (T_STRING), expecting ';' or ',' in /home1/bonjouw7/public_html/wp-content/themes/ms-lms-starter-theme/templates/shedule.php on line 107
+
+2023-07-14T06:31:57+00:00 CRITICAL syntax error, unexpected 'parrent' (T_STRING), expecting ';' or ',' in /home1/bonjouw7/public_html/wp-content/themes/ms-lms-starter-theme/templates/shedule.php on line 107
+
+2023-07-14T06:32:16+00:00 CRITICAL syntax error, unexpected 'parrent' (T_STRING), expecting ';' or ',' in /home1/bonjouw7/public_html/wp-content/themes/ms-lms-starter-theme/templates/shedule.php on line 107
+
+2023-07-14T06:32:48+00:00 CRITICAL syntax error, unexpected 'parrent' (T_STRING), expecting ';' or ',' in /home1/bonjouw7/public_html/wp-content/themes/ms-lms-starter-theme/templates/shedule.php on line 107
+
+2023-07-14T10:15:41+00:00 CRITICAL Uncaught Error: Call to a member function get_product() on null in /home1/bonjouw7/public_html/wp-content/themes/ms-lms-starter-theme/templates/transactions.php:53
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-includes/template-loader.php(106): include()
+#1 /home1/bonjouw7/public_html/wp-blog-header.php(19): require_once('/home1/bonjouw7...')
+#2 /home1/bonjouw7/public_html/index.php(17): require('/home1/bonjouw7...')
+#3 {main}
+  thrown in /home1/bonjouw7/public_html/wp-content/themes/ms-lms-starter-theme/templates/transactions.php on line 53
+
+2023-07-14T10:25:23+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in /home1/bonjouw7/public_html/wp-content/themes/ms-lms-starter-theme/templates/transactions.php:56
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-includes/template-loader.php(106): include()
+#1 /home1/bonjouw7/public_html/wp-blog-header.php(19): require_once('/home1/bonjouw7...')
+#2 /home1/bonjouw7/public_html/index.php(17): require('/home1/bonjouw7...')
+#3 {main}
+  thrown in /home1/bonjouw7/public_html/wp-content/themes/ms-lms-starter-theme/templates/transactions.php on line 56
+

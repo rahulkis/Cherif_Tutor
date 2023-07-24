@@ -1,0 +1,237 @@
+*** Video Conferencing with Zoom Pro Changelogs ***
+2023.05.18 - version 1.7.5
+* Feature: When an order is cancelled or refunded user is deregistered from the meeting.
+
+2023.05.03 - version 1.7.4
+* Updated: Compatibility with new changes to Embed Zoom Post shortcode.
+
+2023.03.08 - version 1.7.3
+* Fixed: Webhook validation print.
+
+2023.02.27 - version 1.7.2
+* Fix: Multiple cart items - continue instead of return for WooCommerce Registration
+
+2023.02.26 - version 1.7.1
+* Fix: Return String PHP 7.4 error fix
+
+2023.02.20 - version 1.7.0
+* Added: Compatibility join via browser with registrations enabled meetings/webinars.
+
+2023.01.17 - version 1.6.6
+* Fixed: PHP notice errors when registration fields are undefined from admin perspective.
+
+2023.01.04 - version 1.6.5
+* Added: Webhook Validation flow as per Zoom changes. All webhooks created prior to this date will not require validation unless you make changes to them. Webhook validation will be required for all new and existing webhooks as of October 2023.
+
+2022.12.28 - version 1.6.4
+* Fix: Bug fix related to plugin updates.
+
+2022.12.09 - version 1.6.3
+* Updated: Message text change for when a user registers into the manual approval type meeting.
+
+2022.12.08 - version 1.6.2
+* Fixed: Incorrect join link sent/received when event registration was set to "manual approve".
+
+2022.12.05 - version 1.6.1
+* Updated: Sent to admin start link in email made compatible with WooCommerce Integration.
+
+2022.11.01 - version 1.6.0
+* Updated: Added secret token for Webhook because Verification token is being deprecated by zoom.
+
+2022.09.28 - version 1.5.29
+* Updated: Webhook synced meetings will now have default status set to published.
+
+2022.08.11 - version 1.5.28
+* Fixed: Dependency with plugin update 4.0.0
+
+2022.06.09 - version 1.5.27
+* Fixed:  When added registration shortcode to block editor. Block editor fails to load.
+
+2022.06.08 - version 1.5.26
+* Fixed: CSS issue on radio and checkboxes when used with learndash.
+
+2022.06.06 - version 1.5.25
+* Fixed: Date showing as next occurence even when the event has ended.
+
+2022.05.31 - version 1.5.22
+* Added: Shortcode [vczapi_pro_registration_form] which shows registration form on any page users wants.
+* Added: Functionality to manually approve or deny registrants from WordPress admin panel directly.
+
+2022.05.16 - version 1.5.21
+* Fix: Add URL for recurring meetings as well
+
+2022.05.12 - version 1.5.20
+* Enhancement: Added option to have calendar title be a link or a popup ```[vczapi_zoom_calendar show_calendar_views="yes" show_popup="no"]```
+
+2022.03.24 - version 1.5.19
+* Fix: Added handling for import / webhook sync for recurring meetings
+
+2022.03.21 - version 1.5.18
+* Fixed: An issue when duplicating, WooCommerce product is not unlinked.
+
+2022.02.02 - version 1.5.17
+* Fixed: An occur related to recurring meeting/webinars when selected "monthly" and occurence to last of sunday, it was taking wrong value resulting in first week instead of last.
+
+2021.11.21 - version 1.5.16
+* Fix: Plugin activation was not registering cron jobs
+
+2021.09.30 - version 1.5.15
+* Feature: Ability to disallow registered users joining from multiple devices.
+
+2021.09.15 - version 1.5.14
+* Hotfix: Issue with settings for ical not saving correctly fixed.
+
+2021.09.15 - version 1.5.13
+* Dev Feature: Added redirect trigger for when user is successfully registered
+
+2021.08.20 - Version 1.5.12
+* Minor Bug Fixes
+
+2021.08.17 - Version 1.5.11
+* Fixed: When used Webhook - Multiple same meeting were being created when certain user creates a meeting from WordPress.
+
+2021.08.09 - Version 1.5.10
+* Fixed: Fixed a bug where if a meeting has no fixed time selected. After the update and changes to the related meeting, registrations was not working.
+* Added: Translations to datatable.
+
+2021.08.06 - Version 1.5.9
+* Breaking Change: Individual registration addtional field options.
+* Fixed: Minor Bugs
+
+2021.07.30 - Version 1.5.8
+* Added: Shortcode to show only registered events [vczapi_registered_meetings]
+* Fixed: Minor bug fixes.
+
+2021.07.27 - Version 1.5.7
+* Fixed: Showing Registrations extra fields for inline-registration form.
+
+2021.07.19 - Version 1.5.6
+* Changed: Registration event text "meeting" changed to "event".
+* Fixed: Registrations not working when using [zoom_meeting_post] shortcode.
+
+2021.07.07 - Version 1.5.5
+* Fixed: Zoom Pro shortcode respects post setting for registering offsite.
+
+2021.07.02 - Version 1.5.4
+* Added: Option to send registration users directly to Zoom
+
+2021.04.06 - Version 1.5.3
+* Added: Meeting/Webinar registration form fields. Users can enable them from settings page.
+
+2021.03.23 - Version 1.5.2
+* Feature: Added Option to select end date for recurring meeting
+
+2021.03.22 - Version 1.5.1
+* Fix: Visual Composer issue for Calendars ( Also calendars now work as individual elements - no co-dependency)
+
+2021.03.22 - Version 1.5.0
+* Feature: Allow multipe calendars to be added to the same page
+
+2021.03.17 - Version 1.4.9
+* Fix: Update correct text domain for pro plugin
+
+2021.03.12 - Version 1.4.8
+* Added: 'vczapi_pro_after_user_registered_link' filter to change go back link after registration.
+
+2021.03.10 - Version 1.4.7
+Added: Support for shortcode to display post type meeting.
+
+2021.03.07 - Version 1.4.6
+* Changed: Show both meeting and webinar with one shortcode.
+
+2021.03.03 - Version 1.4.4/1.4.5
+* Fixed: Deprecated: Function ReflectionParameter::getClass() to support PHP 8.0
+* Fixed: Recurring meeting join links not showing in frontend single pages.
+
+2021.03.01 - Version 1.4.3
+* Added: [vczapi_list_meetings] added columns parameter 1,2,3,4
+* Added: [vczapi_list_meetings] added show past meetings parameter
+
+2021.02.23 - Version 1.4.2
+* Added: Email reminders before 24 hour start of the meeting for registered users.
+* Added: If host is assigned to a user - Import option will only show the linked host.
+
+2021.02.18 - Version 1.4.1
+* Added: All meeting start time instances when someone registers into the meeting.
+* Added: Register now button for shortcode which displays meeting info based on meeting ID [zoom_api_link] or webinar ID [zoom_api_webinar].
+* Changed: Register now button will now show always when used [vczapi_list_meetings] shortcode. If registration is enabled ie.
+* Added: Webinars import functionality.
+* Minor bug fixes.
+
+2021.02.03 - Version 1.4.0
+* Fixed: Meeting duration fixed for attached ICS file during registration.
+* Added: Create user on WP at the time of registering in a meeting from frontend.
+* Fixed: Column layout for shortcode implementation https://zoom.codemanas.com/pro-shortcode/#3-list-meetings-with-register-now-button
+* Fixes: Minor bugs
+
+2021.02.01 - Version 1.3.2
+* Fixed: List view start time according to ascending or descending for recurring meetings
+* Added: Elementor modules for shortcodes.
+
+2021.01.27 - Version 1.3.1
+* Fixed: Show calendar locale based on users locale.
+
+2021.01.27 - Version 1.3.0
+* Fixed: Calender not showing all occurences of a meeting when meeting start date is before the next month.
+* Added: Webhooks ( BETA phase ) - See documentation by going to settings page.
+* Added: Inline registration form and Full registration page classes to modify via css.
+* Fixed: iCal and gCal duration
+* Added: Shortcode which will list meetings and show register now button to directly register events.
+
+2021.01.14 - Version 1.2.3
+* Fixed: Inline registration form not working when in webinar registration case.
+
+2021.01.13 - Version 1.2.1 / Version 1.2.2
+* Fixed: Meeting page crash in frontend when inline registration form would be shown.
+
+2021.01.12 - Version 1.2.0
+* Added: Registration form inline feature.
+* Added: Meeting duplicator option
+
+2021.01.06 - Version 1.1.8
+* Fixed: Calendar not pulling recurring meeting information
+* Added: Shortcode to list of registrants for author events on the frontend using [vczapi_pro_author_registrants]
+
+2020.12.18 - version 1.1.7
+* Fixed: Host selection removed if host ID is assigned for the user from HOST to WP page.
+
+2020.12.07 - version 1.1.6
+* Added: iCal and Google Calendar import in single meeting page and archive page. Works for recurring meetings as well.
+* Fixed: iCal attachment in registration email for recurring meeting.
+* Fixed: issue where user would not show up in import page i.e Only if Zoom account has one user.
+
+2020.11.25 - version 1.1.5
+* Added: Import recurring meetings from your Zoom to your WordPress site.
+
+2020.11.10 - version 1.1.4
+* Feature: Show countdown for join via browser recurring meetings ( required core version 3.6.11 or higher)
+
+2020.11.02 - version 1.1.3
+* Fix: Frontend script not enqueued on single Zoom Meeting Page
+* Fix: Use vczapi_Dateconverter instead of datetime format
+
+2020.10.30 - version 1.1.2
+* Added: Meeting detail field added in confirmation email.
+
+2020.10.29 - version 1.1.1
+* Added: Customer first name, last name and meeting ID paramter to confirmation email.
+* Fixed: Minor bugs
+
+2020.10.22 - version 1.1.0
+* Added: Calendar Shortcode for example: [vczapi_zoom_calendar show_calendar_views="yes"] - See more details about this in the documentation.
+* Added: Registration User status change directly from WordPress backend and send cancellation email similary. Users can edit registration cancellation email same way as the confirmation email from the settings page.
+* REQUIRES: Free version plugin 3.6.6.
+
+2020.10.15 - version 1.0.2
+* Added: Register Email Notification option when creating a meeting. This allows the user to choose default system email or Zoom Email.
+* Fixed: Calendar attachment in confirmation email not working all the time due to condition check.
+
+2020.08.15 - version 1.0.1
+* Fix: Dependency test correction - do not check for Woo Bookings and Woo Addons unless installed.
+
+2020.08.13 - version 1.0.0
+* Initial Release
+
+2020.04.23 - version 1.0.0
+* Initial Beta Release
+

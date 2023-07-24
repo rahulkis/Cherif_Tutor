@@ -1,0 +1,1397 @@
+2023-06-27T07:05:25+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T07:12:29+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T07:20:36+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T07:20:36+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T07:21:01+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T07:21:59+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T07:22:00+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T07:22:24+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T07:26:49+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T07:44:19+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T07:44:25+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T07:44:27+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T08:20:19+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T08:20:20+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T08:20:47+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T08:20:48+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T08:20:49+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T08:21:45+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T08:21:46+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T08:29:32+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T09:04:43+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T09:04:43+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T09:10:16+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T09:22:10+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T09:22:11+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T09:56:46+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T10:09:16+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T10:09:54+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T10:10:21+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T10:10:36+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T10:10:52+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T10:11:20+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T10:14:09+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T10:15:23+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T10:30:19+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T10:41:50+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T10:42:41+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T10:44:22+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T10:44:41+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T10:48:49+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T10:50:45+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T10:52:45+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T10:54:46+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T10:56:46+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T10:58:46+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T11:00:46+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T11:02:46+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T11:04:46+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T11:06:46+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T11:08:46+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T11:10:47+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T11:12:46+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T11:14:47+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T11:14:47+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T11:14:48+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T11:14:50+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T11:15:07+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T11:16:47+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T11:18:47+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T11:20:30+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T11:20:33+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T11:20:47+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T11:22:47+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T11:23:20+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T11:24:47+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T11:26:07+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T11:26:07+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T11:26:47+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T11:28:22+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T11:28:24+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T11:28:34+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T11:28:47+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T11:29:01+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:06:44+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:06:44+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:08:33+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:08:33+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:08:33+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:08:34+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:08:34+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:08:34+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:08:34+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:08:35+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:17:00+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:17:03+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:20:21+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:20:22+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:33:30+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:38:03+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:38:05+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:38:05+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:38:06+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:38:07+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:38:08+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:38:09+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:38:10+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:38:11+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:38:12+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:51:26+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:57:24+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:57:25+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:57:28+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:57:29+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:57:50+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:57:51+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:57:52+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:58:20+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:58:21+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:58:47+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:58:48+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:59:06+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:59:07+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T12:59:59+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T13:00:00+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T13:00:03+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T13:00:04+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T13:00:05+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T13:00:06+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T13:01:54+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T13:01:56+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T13:02:13+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T13:02:16+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T13:14:06+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T13:14:07+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T13:14:20+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T13:14:30+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
+2023-06-27T13:16:21+00:00 CRITICAL Uncaught Error: Undefined class constant 'GOOGLE_MEET' in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php:11
+Stack trace:
+#0 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/Plugin.php(69): MasterStudy\Lms\Pro\AddonsPlus\GoogleMeet\GoogleMeet->get_name()
+#1 /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system/includes/actions.php(13): MasterStudy\Lms\Plugin->register_addons(Array)
+#2 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(308): MasterStudy\Lms\Plugin->{closure}('')
+#3 /home1/bonjouw7/public_html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 /home1/bonjouw7/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home1/bonjouw7/public_html/wp-settings.php(486): do_action('plugins_loaded')
+#6 /home1/bonjouw7/public_html/wp-config.php(93): require_once('/home1/bonjouw7...')
+#7 /home1 in /home1/bonjouw7/public_html/wp-content/plugins/masterstudy-lms-learning-management-system-pro/addons-plus/GoogleMeet/GoogleMeet.php on line 11
+
